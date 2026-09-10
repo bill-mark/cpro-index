@@ -1,0 +1,44 @@
+main.out
+example1
+example2
+cpro_yunxing
+
+*.zip
+# 构建目录（最重要的！）
+build/
+cmake-build-*/
+out/
+bin/
+lib/
+ceshi/
+tmp_ceshi/
+ceshi_fs
+ir_huancun/
+mubiao/
+test/**/mubiao/
+
+# 编译产物
+*.o
+*.ll
+*.a
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.out
+curl_bin  # 你的可执行文件
+
+# IDE相关（如果使用）
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+CMakeOutput.log
+CMakeError.log
