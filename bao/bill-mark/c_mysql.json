@@ -1,0 +1,17 @@
+{
+  "fabuzhe": "bill-mark",
+  "baoming": "c_mysql",
+  "cangku": {
+    "id": 1418677221,
+    "url": "https://github.com/bill-mark/c_mysql",
+    "shoucidengji": "2026-10-15T09:40:09Z"
+  },
+  "banben": {
+    "0.1.0": {
+      "xiazai": "https://github.com/bill-mark/c_mysql/releases/download/0.1.0/c_mysql.tar.gz",
+      "yuanshi": "https://github.com/bill-mark/c_mysql/releases/download/0.1.0/c_mysql.tar.gz",
+      "sha256": "718350d8e1c5d8d9724795346c914c22d05493367d125c12a5bf69b96427322e",
+      "fabushijian": "2026-10-15T09:40:09Z"
+    }
+  }
+}
